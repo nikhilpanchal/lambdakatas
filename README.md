@@ -25,14 +25,14 @@ Functional programming works by evaluating `expressions` with the substitution m
  
  
 ### Benefits
- 
+
  - Simpler reasoning principles
  - Better modularity
  - Good for exploiting parallelism for multi-core and cloud computing
  
- Video Available: [Working Hard to keep it simple](https://www.youtube.com/watch?v=3jg1AheF4n0)
- 
- Resource: [Elements of Programming](https://www.coursera.org/learn/progfun1/lecture/vzbJj/lecture-1-2-elements-of-programming)
+Video Available: [Working Hard to keep it simple](https://www.youtube.com/watch?v=3jg1AheF4n0)
+
+Resource: [Elements of Programming](https://www.coursera.org/learn/progfun1/lecture/vzbJj/lecture-1-2-elements-of-programming)
 
 
 ### Tail Recursion
